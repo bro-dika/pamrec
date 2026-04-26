@@ -86,7 +86,7 @@ PamRec secara otomatis mengkategorikan setiap parameter yang ditemukan dan menga
 ### 1. Clone atau Download
 
 ```bash
-git clone https://github.com/yourrepo/pamrec.git
+git clone https://github.com/bro-dika/pamrec.git
 cd pamrec
 ```
 
